@@ -1,0 +1,16 @@
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\bin\Debug\net8.0-windows\ADVANCE_CALCULATOR.exe
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\bin\Debug\net8.0-windows\ADVANCE_CALCULATOR.deps.json
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\bin\Debug\net8.0-windows\ADVANCE_CALCULATOR.runtimeconfig.json
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\bin\Debug\net8.0-windows\ADVANCE_CALCULATOR.dll
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\bin\Debug\net8.0-windows\ADVANCE_CALCULATOR.pdb
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\obj\Debug\net8.0-windows\ADVANCE_CALCULATOR.Form1.resources
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\obj\Debug\net8.0-windows\ADVANCE_CALCULATOR.vbproj.GenerateResource.cache
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\obj\Debug\net8.0-windows\ADVANCE_CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\obj\Debug\net8.0-windows\ADVANCE_CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\obj\Debug\net8.0-windows\ADVANCE_CALCULATOR.AssemblyInfo.vb
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\obj\Debug\net8.0-windows\ADVANCE_CALCULATOR.vbproj.CoreCompileInputs.cache
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\obj\Debug\net8.0-windows\ADVANCE_CALCULATOR.dll
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\obj\Debug\net8.0-windows\refint\ADVANCE_CALCULATOR.dll
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\obj\Debug\net8.0-windows\ADVANCE_CALCULATOR.pdb
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\obj\Debug\net8.0-windows\ADVANCE_CALCULATOR.genruntimeconfig.cache
+C:\Users\ralph\source\repos\ADVANCE_CALCULATOR\ADVANCE_CALCULATOR\obj\Debug\net8.0-windows\ref\ADVANCE_CALCULATOR.dll
